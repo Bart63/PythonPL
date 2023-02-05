@@ -1,2 +1,2 @@
 # PythonPL
-Python for university
+Data analysis and visualization
